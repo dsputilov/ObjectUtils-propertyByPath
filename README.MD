@@ -2,7 +2,7 @@ Usage:
 
 Import library
 
-    import {getPropertyByPath, setPropertyByPath} from "ObjectUtils-propertyByPath";
+    import {getPropertyByPath, setPropertyByPath} from "objectutils-propertybypath";
 
     let data = {
         animals: {
